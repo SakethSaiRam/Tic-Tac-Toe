@@ -7,4 +7,4 @@ The three modes are as follows:
 
 - Mode 2 - Human vs AI (Easy Mode)
 
-- Mode 3 - Human vs AI (Difficult Mode
+- Mode 3 - Human vs AI (Difficult Mode)
