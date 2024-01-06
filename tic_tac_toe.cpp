@@ -1,6 +1,4 @@
-# include <bits/stdc++.h>
 # include "ttt_func.h"
-using namespace std;
 
 int main(){
     cout<<"---WELCOME TO TIC TAC TOE---\n";
