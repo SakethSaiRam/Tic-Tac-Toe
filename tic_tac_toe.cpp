@@ -1,4 +1,4 @@
-# include "ttt_func.h"
+# include "functions.h"
 
 int main(){
     cout<<"---WELCOME TO TIC TAC TOE---\n";
